@@ -44,12 +44,12 @@ Installing and using Sim Estate is very straightforward.
     - Choose a type of landmark from the drop-down menu (i.e. school)
     - Based on the option you select, there will be unique fields to fill in.
     - Some important features that should be known include
-      - **School Ranking**: the lower the number, the better. For instance, +10 means the school is top 10 in the city
+      - **School Ranking**: for a school, the ranking of the school is rated 1-10
       - **Store Affordability**: for a grocery store, the affordability of the store is rated 1-10
-      - **Emergency Service Sustainability**: the sustainability efforts of the building rated from 1-10
-      - **Park Clean Rating**: representing the cleanliness of the park, from 1-10
-      - **Disposal Centre Pollution**: representing the pollution of the disposal centre, from 1-10
-      - **Bus Stop/Subway Station Busyness**: representing how busy the station usually is, from 1-10
+      - **Emergency Service Sustainability**: the sustainability efforts of the building rated 1-10
+      - **Park Clean Rating**: representing the cleanliness of the park, rated 1-10
+      - **Disposal Centre Pollution**: representing the pollution of the disposal centre, rated 1-10
+      - **Bus Stop/Subway Station Busyness**: representing how busy the station is, rated 1-10
     - If all inputs are valid, click the “Confirm” button to proceed.
   - Congratulations, you have successfully created a new landmark!
 
