@@ -11,40 +11,36 @@ There are **three** main simulation modes
 
 ## Installation
 Installing and using Sim Estate is very straightforward.
-1. Download the repository as a \\\.zip file.
-2. Unzip the .zip file.
-3. Open a Java IDE (NetBeans is heavily recommended, though Intellij and Eclipse are both suitable alternatives).
-4. In your IDE, open a project and locate the Sim Estate file: C:\...\SimEstate\SimEstate
-5. Open the second SimEstate file, and find SimEstate.java. This is the ‘main’ file of the project.
-6. Run SimEstate.java.
-7. Enjoy!
+1. Download the repository as a `.zip` file.
+2. Unzip the `.zip` file.
+3. Open a Java IDE (NetBeans is heavily recommended, though Intellij and Eclipse are both suitable).
+4. Open this project and locate the Sim Estate file: `C:\...\SimEstate\SimEstate`.
+5. Open `SimEstate.java`. This is the ‘main’ file of the project.
+6. Run `SimEstate.java`. Enjoy!
 
 ## Usage
 - **Buyer Mode**
   - From the Mode Selection Menu, select the left-most button to enter Buyer Mode
-  - If this is your first screen, there will only be options to view the valuations and details of the default houses in the city
-    - Click the Proximity/Information button in the bottom right corner of the panel to view locational information concerning the properties closest landmarks & amenities
-    - To the left of the button is the Proximity Bonus, which will display as either a bonus or penalty depending on if the property’s location had a positive or negative impact on its valuation
-  - After trying out the Contractor or Government modes, return to see the impacts on the valuations on the default or user built properties as the city is expanded
+  - View the valuations and details of default properties or user-built ones:
+    - Click Proximity/Information (bottom right) to see locational details
+    - Check the Proximity Bonus for positive/negative locational impacts
+  - Experiment with Contractor or Government modes, then revisit Buyer Mode to see how changes affect valuations
+
 - **Contractor Mode**
   - From the Mode Selection Menu, select the center button to enter Contractor Mode
   - Here you can add to the city’s residential portfolio by building your own residences
   - The first phase of construction is destination selection
-    - On this screen, select a landmark or other residence to start and build a road from
+    - Choose a landmark/residence to start from, specify road length, and name the address
     - Specify its length and name the address with a road suffix (St, Rd, Ln, Dr, Blvd)
-    - As long as the address is not already taken, you may proceed with the Confirm button
-  - Building the Property is conducted on the follow up page to destination select
-  - Building the Property is conducted on the follow up page to destination select
-  - Fill in the required fields for the given build type before confirming
-    - Details here will have an impact towards its valuation
-  - As long as all input is deemed valid, you will be transported back to the menu where you can view your creation in the buy screen or resume with one of the other modes]
+  - On the next page, fill in required fields (e.g., property type, features), which influence valuation
+  - Once inputs are valid, return to the menu to view your creation or explore other modes
+
 - **Government Mode**
   - From the Mode Selection Menu, select the right-most button to enter Government Mode.
-  - You will be greeted with a New Landmark page, where you can add landmarks to the city (e.g. new parks, hospitals, malls)
-    - Firstly, fill in the distance from your new landmark to an existing landmark (i.e. Central Park). You can select the existing landmark from a drop-down menu.
-    - You will then be able to enter a name and an address, with a valid road suffix
-    - If the address is not already taken, click the ‘confirm’ button to proceed
-  - You will then be greeted with a page where you can design the new landmark.
+  - Add a landmark:
+    - Select the distance to an existing landmark from a drop-down menu
+    - Enter a name and valid address with a road suffix, then confirm
+  - Design the landmark:
     - Choose a type of landmark from the drop-down menu (i.e. school)
     - Based on the option you select, there will be unique fields to fill in.
     - Some important features that should be known include
