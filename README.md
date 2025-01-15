@@ -3,6 +3,9 @@
 ## Introduction
 Sim Estate is an advanced real estate simulation platform that provides accurate property valuations by considering geographical and property-specific factors. Our vision is to revolutionize the real estate market, empowering users to make informed decisions in property acquisition, construction, and investment.
 
+_Our title screen_
+![alt text]()
+
 ## Key Features
 There are **three** main simulation modes
 - **Buyer**: View estimated property valuations and locational impacts for existing or user-created properties.
