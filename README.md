@@ -1,18 +1,17 @@
 # Sim Estate
 
 ## Introduction
-Despite the availability of various real estate platforms, buyers and contractors often face challenges in making informed decisions due to the lack of specific factors that influence property valuations. Sim Estate aims to fill this knowledge gap by providing an unparalleled real estate simulation application that considers geographical factors and a range of characteristics to deliver accurate property valuations.
-Sim Estate is an advanced and immersive real estate simulation platform that empowers users with comprehensive insights and accurate property valuations. Our vision is to revolutionize the real estate market by providing users with a data-driven approach to make informed decisions in property acquisition, construction, and investment.
+Sim Estate is an advanced real estate simulation platform that provides accurate property valuations by considering geographical and property-specific factors. Our vision is to revolutionize the real estate market, empowering users to make informed decisions in property acquisition, construction, and investment.
 
 ## Key Features
 There are **three** main simulation modes
-- **Buyer**: Users can search for example properties or those they have created and view estimated valuations and locational impacts.
-- **Contractor**: Users can build new properties to specific requirements and details, including distance from landmarks as well as property characteristics.
-- **Government**: Users can create new landmarks and amenities in the city/world to observe their impact on property valuations.
+- **Buyer**: View estimated property valuations and locational impacts for existing or user-created properties.
+- **Contractor**: Build properties with specific characteristics, such as proximity to landmarks, to explore valuation impacts.
+- **Government**: Add landmarks and amenities to observe their influence on property values.
 
 ## Installation
 Installing and using Sim Estate is very straightforward.
-1. Download the repository as a .zip file.
+1. Download the repository as a \\\.zip file.
 2. Unzip the .zip file.
 3. Open a Java IDE (NetBeans is heavily recommended, though Intellij and Eclipse are both suitable alternatives).
 4. In your IDE, open a project and locate the Sim Estate file: C:\...\SimEstate\SimEstate
