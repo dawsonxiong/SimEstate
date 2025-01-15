@@ -59,4 +59,4 @@ Installing and using Sim Estate is very straightforward.
   - Congratulations, you have successfully created a new landmark!
 
 ## Contact
-For questions, suggestions, or feedback, please email myself at dyxiong@uwaterloo.ca
+For questions, suggestions, or feedback, please email me at dyxiong@uwaterloo.ca
