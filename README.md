@@ -3,8 +3,9 @@
 ## Introduction
 Sim Estate is an advanced real estate simulation platform that provides accurate property valuations by considering geographical and property-specific factors. Our vision is to revolutionize the real estate market, empowering users to make informed decisions in property acquisition, construction, and investment.
 
-_Our title screen_
-![alt text]()
+_Our title screen:_
+
+![alt text](https://github.com/dawsonxiong/SimEstate/blob/master/src/resources/titlescreen.png)
 
 ## Key Features
 There are **three** main simulation modes
@@ -28,6 +29,10 @@ Installing and using Sim Estate is very straightforward.
     - Click Proximity/Information (bottom right) to see locational details
     - Check the Proximity Bonus for positive/negative locational impacts
   - Experiment with Contractor or Government modes, then revisit Buyer Mode to see how changes affect valuations
+ 
+_Buyer mode screen:_
+
+![alt text](https://github.com/dawsonxiong/SimEstate/blob/master/src/resources/buyerscreen.png)
 
 - **Contractor Mode**
   - From the Mode Selection Menu, select the center button to enter Contractor Mode
@@ -37,6 +42,10 @@ Installing and using Sim Estate is very straightforward.
     - Specify its length and name the address with a road suffix (St, Rd, Ln, Dr, Blvd)
   - On the next page, fill in required fields (e.g., property type, features), which influence valuation
   - Once inputs are valid, return to the menu to view your creation or explore other modes
+
+_Contractor mode screen:_
+
+![alt text](https://github.com/dawsonxiong/SimEstate/blob/master/src/resources/contractorscreen.png)
 
 - **Government Mode**
   - From the Mode Selection Menu, select the right-most button to enter Government Mode.
@@ -55,6 +64,9 @@ Installing and using Sim Estate is very straightforward.
       - **Bus Stop/Subway Station Busyness**: representing how busy the station is, rated 1-10
     - If all inputs are valid, click the “Confirm” button to proceed.
   - Congratulations, you have successfully created a new landmark!
+
+_Contractor mode screen:_
+![alt text](https://github.com/dawsonxiong/SimEstate/blob/master/src/resources/governmentsreen.png)
 
 ## Contact
 For questions, suggestions, or feedback, please email me at dyxiong@uwaterloo.ca
