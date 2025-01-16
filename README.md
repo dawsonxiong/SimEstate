@@ -66,6 +66,7 @@ _Contractor mode screen:_
   - Congratulations, you have successfully created a new landmark!
 
 _Contractor mode screen:_
+
 ![alt text](https://github.com/dawsonxiong/SimEstate/blob/master/src/resources/governmentsreen.png)
 
 ## Contact
