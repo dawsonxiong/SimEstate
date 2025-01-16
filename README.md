@@ -23,7 +23,7 @@ Installing and using Sim Estate is very straightforward.
 6. Run `SimEstate.java`. Enjoy!
 
 ## Usage
-- **Buyer Mode**
+- ### **Buyer Mode**
   - From the Mode Selection Menu, select the left-most button to enter Buyer Mode
   - View the valuations and details of default properties or user-built ones:
     - Click Proximity/Information (bottom right) to see locational details
@@ -34,7 +34,7 @@ _Buyer mode screen:_
 
 ![alt text](https://github.com/dawsonxiong/SimEstate/blob/master/src/resources/buyerscreen.png)
 
-- **Contractor Mode**
+- ### **Contractor Mode**
   - From the Mode Selection Menu, select the center button to enter Contractor Mode
   - Here you can add to the city’s residential portfolio by building your own residences
   - The first phase of construction is destination selection
@@ -47,7 +47,7 @@ _Contractor mode screen:_
 
 ![alt text](https://github.com/dawsonxiong/SimEstate/blob/master/src/resources/contractorscreen.png)
 
-- **Government Mode**
+- ### **Government Mode**
   - From the Mode Selection Menu, select the right-most button to enter Government Mode.
   - Add a landmark:
     - Select the distance to an existing landmark from a drop-down menu
