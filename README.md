@@ -19,7 +19,7 @@ Installing and using Sim Estate is very straightforward.
 2. Unzip the `.zip` file.
 3. Open a Java IDE (NetBeans is heavily recommended, though Intellij and Eclipse are both suitable).
 4. Open this project and locate the Sim Estate file: `C:\...\SimEstate\SimEstate`.
-5. Open `SimEstate.java`. This is the ‘main’ file of the project.
+5. Open `SimEstate.java`.
 6. Run `SimEstate.java`. Enjoy!
 
 ## Usage
